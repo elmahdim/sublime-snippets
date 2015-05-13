@@ -1,0 +1,11 @@
+<snippet>
+<content><![CDATA[
+<table class="table table-striped">
+  <tr>
+    <$1>$2</$1>
+  </tr>
+</table>
+]]></content>
+  <tabTrigger>bstbls</tabTrigger>
+  <description>Bootstrap Tables: striped</description>
+</snippet>

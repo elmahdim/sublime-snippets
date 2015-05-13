@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+@include background-size($1);
+]]></content>
+  <tabTrigger>incbgs</tabTrigger>
+  <description>Compass: background-size mixin</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+@include opaque;
+]]></content>
+  <tabTrigger>incopq</tabTrigger>
+  <description>Compass: opaque mixin</description>
+</snippet>

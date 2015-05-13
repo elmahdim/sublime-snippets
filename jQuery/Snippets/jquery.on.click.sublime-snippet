@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+\$('$1').on('click', function($2){
+  $3
+});
+]]></content>
+  <tabTrigger>jqonc</tabTrigger>
+  <scope>source.js</scope>
+  <description>jQuery: on() method attached with click event handler</description>
+</snippet>

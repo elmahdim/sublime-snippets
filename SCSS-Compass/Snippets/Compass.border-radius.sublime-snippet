@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+@include border-radius($1);
+]]></content>
+  <tabTrigger>incbrdr</tabTrigger>
+  <description>Compass: border radius mixin</description>
+</snippet>

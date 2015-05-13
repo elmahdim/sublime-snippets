@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+<!-- Start $2 -->
+  <$1 class="$2">$3</$1>
+<!-- End $2 -->
+]]></content>
+  <tabTrigger>twc</tabTrigger>
+  <description>HTML: tag wrapped by comment</description>
+</snippet>

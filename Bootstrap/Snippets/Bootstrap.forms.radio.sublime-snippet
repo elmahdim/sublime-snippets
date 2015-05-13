@@ -1,0 +1,12 @@
+<snippet>
+<content><![CDATA[
+<div class="radio">
+  <label>
+    <input type="radio" name="$1" value="$2">
+    $3
+  </label>
+</div>
+]]></content>
+  <tabTrigger>bsrd</tabTrigger>
+  <description>Bootstrap Forms: radio button</description>
+</snippet>

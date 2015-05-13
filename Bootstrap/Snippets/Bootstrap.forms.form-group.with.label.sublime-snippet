@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+<div class="form-group">
+  <label for="$2">$3</label>
+  <input type="$1" class="form-control" id="$2" placeholder="$3">
+</div>
+]]></content>
+  <tabTrigger>bsfglbl</tabTrigger>
+  <description>Bootstrap Forms: form-group with label</description>
+</snippet>

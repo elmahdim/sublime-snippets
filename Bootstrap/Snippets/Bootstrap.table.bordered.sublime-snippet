@@ -1,0 +1,11 @@
+<snippet>
+<content><![CDATA[
+<table class="table table-bordered">
+  <tr>
+    <$1>$2</$1>
+  </tr>
+</table>
+]]></content>
+  <tabTrigger>bstblb</tabTrigger>
+  <description>Bootstrap Tables: bordered</description>
+</snippet>

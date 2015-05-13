@@ -1,0 +1,12 @@
+<snippet>
+<content><![CDATA[
+<div class="checkbox">
+  <label>
+    <input type="checkbox" value="$1">
+    $2
+  </label>
+</div>
+]]></content>
+  <tabTrigger>bscb</tabTrigger>
+  <description>Bootstrap Forms: checkbox</description>
+</snippet>

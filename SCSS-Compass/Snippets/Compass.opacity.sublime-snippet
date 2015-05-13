@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+@include opacity($1);
+]]></content>
+  <tabTrigger>incop</tabTrigger>
+  <description>Compass: opacity mixin</description>
+</snippet>

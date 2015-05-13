@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+@include transparent;
+]]></content>
+  <tabTrigger>incopt</tabTrigger>
+  <description>Compass: transparent mixin</description>
+</snippet>

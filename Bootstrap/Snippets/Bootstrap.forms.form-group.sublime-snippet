@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+<div class="form-group">
+  <input type="$1" class="form-control" placeholder="$2">
+</div>
+]]></content>
+  <tabTrigger>bsfg</tabTrigger>
+  <description>Bootstrap Forms: form-group</description>
+</snippet>
